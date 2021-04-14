@@ -1,2 +1,2 @@
-# kapatsyna.github.io
+# tartar.github.io
 My portfolio
