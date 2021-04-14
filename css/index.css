@@ -1,0 +1,71 @@
+body {
+	font-family: "Tahoma", sans-serif;
+}
+ a{
+ 	color: black;
+ 	text-decoration: none;
+ }
+.header-form {
+	border: 10px solid blue;
+}
+
+.navbar-brand {
+	font-size: 30px;
+}
+
+.nav-link {
+	font-size: 20px;
+	color: black;
+}
+
+.second-header {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.header-input {
+	border: 4px solid blue;
+	height: 70px;
+	width: 265px;
+}
+.h2-customers {
+	margin-top: 100px;
+}
+.customers-block-1 {
+	margin-top: 100px;
+}
+
+.customers-block-2 {
+	margin-top: 30px;
+}
+
+.button-detail {
+	height: 70px;
+}
+
+.pricelist-block {
+	border: 5px solid blue;
+}
+
+.pricelist-block input{
+	border: 5px solid blue;
+	margin-top: 20px;
+}
+
+.pricelist-block textarea {
+	margin-top: 20px;
+	height: 80px;
+	resize: none;
+	border: 5px solid blue;
+	scroll-behavior: none;
+}
+
+
+.footer {
+	background-color: black;
+	height: 50px;
+}
+
+.footer a {
+	color: white;
+}
